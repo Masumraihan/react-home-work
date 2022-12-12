@@ -1,0 +1,13 @@
+.user_container{
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    line-height: 1em;
+}
+button{
+    padding: .5em .5em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}

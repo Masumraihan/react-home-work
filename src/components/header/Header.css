@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+.user{
+    width: 60%;
+    margin: 40px;
+    border-right: 1px solid lightgray;
+}
+.salary{
+ margin-top: 40px;
+}
